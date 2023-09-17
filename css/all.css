@@ -21,12 +21,12 @@ CAROUSEL
 
 .owl-style-01 .owl-nav [class*="owl-"] {
     border-radius: 4px;
-    color: #dadee6;
+    color: #0c0c0c;
     background-color: #ffffff;
     cursor: pointer;
     display: inline-block;
     border:1px solid #dadee6;
-    font-size: 14px;
+    font-size: 20px;
     height: 40px;
     line-height: 40px;
     margin: 5px;
