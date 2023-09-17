@@ -56,7 +56,7 @@
 
 body,
 p {
-    color: #999999;
+    color: #d4d4d4;
     font-size: 15px;
     font-weight: 400;
     line-height: 1.85714em;
@@ -84,7 +84,7 @@ h3,
 h4,
 h5,
 h6 {
-    color:#131313;
+    color:#ffffff;
 }
 
 
@@ -498,7 +498,7 @@ section::after {
 }
 
 .section.lb {
-    background-color: #ecf0f8;
+    background-color: #1d5ddd;
 }
 
 .section-title {
@@ -506,7 +506,8 @@ section::after {
     display: block;
     position: relative;
 }
-.section-title h2 {   
+.section-title h2 {
+    color: #ffffff;   
     font-size: 31px;
     letter-spacing: 0;
     padding:0;
@@ -564,6 +565,10 @@ section::after {
     line-height: 36px;
     margin: 0 0 2rem;
     font-weight: 300;
+}
+
+.tagline-v2 ol {
+    color: #e9e5e5;
 }
 
 .padleft30 {
@@ -1383,11 +1388,11 @@ div.sidewrapper.sidenav {
     margin-bottom: 2rem
 }
 .dmtop {
-    background-color: #1a1d2f;
+    background-color: #eff0f5;
     width: 60px;
     height: 60px;
     line-height: 60px;
-    color:#ffffff;
+    color:#181818;
     position: fixed;
     bottom: -100px;
     border-radius: 500px;
